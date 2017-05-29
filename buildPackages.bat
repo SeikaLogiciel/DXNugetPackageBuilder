@@ -1,7 +1,7 @@
-set DXVersion=15.1
-set SymbolsFolder=c:\tmp\symbols
-set TargetNugetFolder=C:\tmp\Nuget
-set Localization=de;es;ja;ru
+set DXVersion=17.1
+set SymbolsFolder=c:\temp\symbols
+set TargetNugetFolder=C:\temp\Nuget
+set Localization=fr
 set NugetServer=
 REM set NugetServer=-NugetSource http://yourNugetServer/
 set NugetApiKey=
